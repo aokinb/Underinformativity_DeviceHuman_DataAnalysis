@@ -20,5 +20,4 @@ This repository is organized into 3 folders: 'Code', 'Data Frames', and 'Loop an
 - The 'Loop and Merge' folder contains 6 files. These files were used for counterbalancing purposes in Qualtrics.
 - These files are needed in the 'Processing' R code. 
 
-- Note that the R code loads these files from the working directory of the first author. 
-- Thus, in order to run all of the scripts, the user will have to determine where the files are located on their own computer and change the code accordingly. 
+Note that the R code loads these files from the working directory of the first author. Thus, in order to run all of the scripts, the user will have to determine where the files are located on their own computer and change the code accordingly. 
